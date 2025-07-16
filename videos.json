@@ -10,34 +10,34 @@
         "endDate": "9999-12-12",
         "contributionThreshold": 0,
         "streakThreshold": 0,
-        "dayThreshold": 0,
+        "dayThreshold": 0
     },
     {
         "id": 1,
-        "devOnly": true
+        "devOnly": true,
         "title": "Test Video 1",
         "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
         "description": "TEST: default values for missing fields."
     },
     {
         "id": 2,
-        "devOnly": true
+        "devOnly": true,
         "title": "Test Video 2",
         "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-        "description": "TEST: This video only shows after day 1."
-        "dayThreshold": 2,
+        "description": "TEST: This video only shows after day 1.",
+        "dayThreshold": 2
     },
     {
         "id": 3,
-        "devOnly": true
+        "devOnly": true,
         "title": "Test Video 3",
         "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-        "description": "TEST: This video only shows on a streak of 3 or more"
+        "description": "TEST: This video only shows on a streak of 3 or more",
         "streakThreshold": 3
     },
     {
         "id": 4,
-        "devOnly": true
+        "devOnly": true,
         "title": "Test Video 4",
         "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
         "description": "TEST: this video never shows because it's past the endDate.",
@@ -45,7 +45,7 @@
     },
     {
         "id": 100,
-        "enabled": false
+        "enabled": false,
         "title": "Placeholder",
         "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
         "description": "This is a placeholder for the first real video. Keeping the 0-99 ids reserved for tests."
