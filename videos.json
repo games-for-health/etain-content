@@ -40,8 +40,15 @@
         "devOnly": true,
         "title": "Test Video 4",
         "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-        "description": "TEST: this video never shows because it's past the endDate.",
+        "description": "TEST: This video never shows because it's past the endDate.",
         "endDate" : "1970-01-01"
+    },
+    {
+        "id": 5,
+        "devOnly": true,
+        "title": "Test Video 5 with a super duper long name that is way too long but the button should still scale properly.",
+        "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+        "description": "TEST: This video has a long title.",
     },
     {
         "id": 100,
