@@ -48,7 +48,7 @@
         "devOnly": true,
         "title": "Test Video 5 with a super duper long name that is way too long but the button should still scale properly.",
         "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-        "description": "TEST: This video has a long title.",
+        "description": "TEST: This video has a long title."
     },
     {
         "id": 100,
