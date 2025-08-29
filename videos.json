@@ -16,14 +16,14 @@
         "id": 1,
         "devOnly": true,
         "title": "Test Video 1",
-        "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+        "url": "https://www.w3schools.com/tags/mov_bbb.mp4",
         "description": "TEST: default values for missing fields."
     },
     {
         "id": 2,
         "devOnly": true,
         "title": "Test Video 2",
-        "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+        "url": "https://www.w3schools.com/tags/mov_bbb.mp4",
         "description": "TEST: This video only shows after day 1.",
         "dayThreshold": 2
     },
@@ -31,7 +31,7 @@
         "id": 3,
         "devOnly": true,
         "title": "Test Video 3",
-        "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+        "url": "https://www.w3schools.com/tags/mov_bbb.mp4",
         "description": "TEST: This video only shows on a streak of 3 or more",
         "streakThreshold": 3
     },
@@ -39,7 +39,7 @@
         "id": 4,
         "devOnly": true,
         "title": "Test Video 4",
-        "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+        "url": "https://www.w3schools.com/tags/mov_bbb.mp4",
         "description": "TEST: This video never shows because it's past the endDate.",
         "endDate" : "1970-01-01"
     },
@@ -47,21 +47,28 @@
         "id": 5,
         "devOnly": true,
         "title": "Test Video 5 with a super duper long name that is way too long but the button should still scale properly.",
-        "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+        "url": "https://www.w3schools.com/tags/mov_bbb.mp4",
         "description": "TEST: This video has a long title."
     },
     {
         "id": 6,
         "devOnly": true,
         "title": "Test Video 6 with a super duper long name that is way too long and really can't be expected to be supported by the button. Frankly, it would look downright silly to have a button with this much text. There's SO much text, that I'm struggeling to come up with enough rambling words for the sake of a test instead of just copy pasting the first paragraph of Lorem Ipsum, which I just now realise is what I should've done in the first place.",
-        "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+        "url": "https://www.w3schools.com/tags/mov_bbb.mp4",
         "description": "TEST: This video has a REALLY long title."
+    },
+    {
+        "id": 7,
+        "devOnly": true,
+        "title": "Test Video 7 has an empty description",
+        "url": "https://www.w3schools.com/tags/mov_bbb.mp4",
+        "description": ""
     },
     {
         "id": 100,
         "enabled": false,
         "title": "Placeholder",
-        "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+        "url": "https://www.w3schools.com/tags/mov_bbb.mp4",
         "description": "This is a placeholder for the first real video. Keeping the 0-99 ids reserved for tests."
     }
 ]
