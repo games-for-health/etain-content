@@ -3,9 +3,15 @@
         "id": 0,
         "devOnly": true,
         "enabled": true,
-        "title": "Test Video 0",
+        "title": {
+            "en": "Test video 0",
+            "nl": "Test video 0"
+        },
         "url": "https://www.w3schools.com/tags/mov_bbb.mp4",
-        "description": "TEST: This video should always show up",
+        "description": {
+            "en": "TEST: This video should always show up",
+            "nl": "TEST: Deze video zou altijd moeten verschijnen"
+        },
         "startDate": "1970-01-01",
         "endDate": "9999-12-12",
         "contributionThreshold": 0,
