@@ -21,14 +21,19 @@
     {
         "id": 1,
         "devOnly": true,
-        "title": "Test Video 1",
+        "title": {
+            "en": "Test video 1",
+            "nl": "Test video 1"
+        },
         "url": "https://www.w3schools.com/tags/mov_bbb.mp4",
         "description": "TEST: default values for missing fields."
     },
     {
         "id": 2,
         "devOnly": true,
-        "title": "Test Video 2",
+        "title": {
+            "en": "Test video 2"
+        },
         "url": "https://www.w3schools.com/tags/mov_bbb.mp4",
         "description": "TEST: This video only shows after day 1.",
         "dayThreshold": 2
@@ -36,7 +41,9 @@
     {
         "id": 3,
         "devOnly": true,
-        "title": "Test Video 3",
+        "title": {
+            "en": "Test video 3"
+        },
         "url": "https://www.w3schools.com/tags/mov_bbb.mp4",
         "description": "TEST: This video only shows on a streak of 3 or more",
         "streakThreshold": 3
@@ -44,7 +51,9 @@
     {
         "id": 4,
         "devOnly": true,
-        "title": "Test Video 4",
+        "title": {
+            "en": "Test video 4"
+        },
         "url": "https://www.w3schools.com/tags/mov_bbb.mp4",
         "description": "TEST: This video never shows because it's past the endDate.",
         "endDate" : "1970-01-01"
@@ -52,36 +61,48 @@
     {
         "id": 5,
         "devOnly": true,
-        "title": "Test Video 5 with a super duper long name that is way too long but the button should still scale properly.",
+        "title": {
+            "en": "Test Video 5 with a super duper long name that is way too long but the button should still scale properly."
+        },
         "url": "https://www.w3schools.com/tags/mov_bbb.mp4",
         "description": "TEST: This video has a long title."
     },
     {
         "id": 6,
         "devOnly": true,
-        "title": "Test Video 6 with a super duper long name that is way too long and really can't be expected to be supported by the button. Frankly, it would look downright silly to have a button with this much text. There's SO much text, that I'm struggeling to come up with enough rambling words for the sake of a test instead of just copy pasting the first paragraph of Lorem Ipsum, which I just now realise is what I should've done in the first place.",
+        "title": {
+            "en": "Test Video 6 with a super duper long name that is way too long and really can't be expected to be supported by the button. Frankly, it would look downright silly to have a button with this much text. There's SO much text, that I'm struggeling to come up with enough rambling words for the sake of a test instead of just copy pasting the first paragraph of Lorem Ipsum, which I just now realise is what I should've done in the first place."
+        },
         "url": "https://www.w3schools.com/tags/mov_bbb.mp4",
         "description": "TEST: This video has a REALLY long title."
     },
     {
         "id": 7,
         "devOnly": true,
-        "title": "Test Video 7 has an empty description",
+        "title": {
+            "en": "Test Video 7 has an empty description"
+        },
         "url": "https://www.w3schools.com/tags/mov_bbb.mp4",
-        "description": ""
+        "description": {}
     },
     {
         "id": 8,
         "devOnly": true,
-        "title": "Test Video 8 has a looooooong description",
+        "title": {
+            "en": "Test Video 8 has a looooooong description"
+        },
         "url": "https://www.w3schools.com/tags/mov_bbb.mp4",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tincidunt ipsum nisi, non ultrices leo lobortis id. Sed feugiat pharetra elit sit amet faucibus. Integer hendrerit suscipit diam, ut rutrum sapien consequat sit amet. Proin at lorem vitae tortor feugiat tincidunt. Vestibulum nibh velit, consequat ut commodo et, efficitur vel nibh. Nullam libero arcu, ultrices in eros nec, suscipit bibendum mauris. Nulla sed nibh faucibus, efficitur velit varius, semper turpis. Vivamus justo tortor, rhoncus a elit non, ornare ultricies sapien. Etiam mattis, nisi in tincidunt venenatis, ligula odio iaculis purus, a imperdiet justo elit non lorem."
     },
     {
         "id": 100,
         "enabled": false,
-        "title": "Placeholder",
+        "title": {
+            "en": "Placeholder"
+        },
         "url": "https://www.w3schools.com/tags/mov_bbb.mp4",
-        "description": "This is a placeholder for the first real video. Keeping the 0-99 ids reserved for tests."
+        "description": {
+            "en": "This is a placeholder for the first real video. Keeping the 0-99 ids reserved for tests."
+        }
     }
 ]
