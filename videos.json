@@ -59,7 +59,9 @@
             "en": "Test video 4"
         },
         "url": "https://www.w3schools.com/tags/mov_bbb.mp4",
-        "description": "TEST: This video never shows because it's past the endDate.",
+        "description": {
+            "en": "TEST: This video never shows because it's past the endDate."
+        },
         "endDate" : "1970-01-01"
     },
     {
