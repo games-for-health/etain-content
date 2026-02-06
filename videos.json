@@ -132,11 +132,11 @@
     {
         "id": 100,
         "title": {
-            "en": "Placeholder"
+            "en": "Far-field and near-field"
         },
-        "url": "https://www.w3schools.com/tags/mov_bbb.mp4",
+        "url": "https://drive.google.com/file/d/1j19-ifS3h5qUc1IOeHN6TJ-H6A76Q0Jv/view?usp=drive_link",
         "description": {
-            "en": "This is a placeholder for the first real video. Keeping the 0-99 ids reserved for tests."
+            "en": "Nekane explains the difference between far-field and near-field exposure."
         }
     }
 ]
