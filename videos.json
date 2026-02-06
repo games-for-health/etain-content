@@ -138,5 +138,35 @@
         "description": {
             "en": "Nekane explains the difference between far-field and near-field exposure."
         }
+    },
+    {
+        "id": 101,
+        "title": {
+            "en": "EMF dose"
+        },
+        "url": "https://www.etainproject.eu/s/Martin_EMF_Dose.mp4",
+        "description": {
+            "en": "Martin"
+        }
+    },
+    {
+        "id": 102,
+        "title": {
+            "en": "Lloyd"
+        },
+        "url": "https://www.etainproject.eu/s/Lloyd-Video.mp4",
+        "description": {
+            "en": "Lloyd"
+        }
+    },
+    {
+        "id": 103,
+        "title": {
+            "en": "Anke"
+        },
+        "url": "https://www.etainproject.eu/s/Anke-Video.mp4",
+        "description": {
+            "en": "Anke"
+        }
     }
 ]
