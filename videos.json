@@ -132,41 +132,41 @@
     {
         "id": 100,
         "title": {
-            "en": "Far-field and near-field"
+            "en": "Near-field and far-field"
         },
         "url": "https://www.etainproject.eu/s/Nekane_FarFieldShortField.mp4",
         "description": {
-            "en": "Nekane explains the difference between far-field and near-field exposure."
+            "en": "Nekane explains how RF-EMF exposure differs in near-field and far-field conditions and why proximity to the source is a key factor in exposure levels."
         }
     },
     {
         "id": 101,
         "title": {
-            "en": "EMF dose"
+            "en": "Overall phone radiation exposure"
         },
         "url": "https://www.etainproject.eu/s/Martin_EMF_Dose.mp4",
         "description": {
-            "en": "Martin"
+            "en": "Martin explains how ETAIN has calculated the overall dose exposure of every user. At the same time, he also explains how users can learn more about their day to day phone behavior."
         }
     },
     {
         "id": 102,
         "title": {
-            "en": "Lloyd"
+            "en": "ETAIN exposure maps"
         },
         "url": "https://www.etainproject.eu/s/Lloyd-Video.mp4",
         "description": {
-            "en": "Lloyd"
+            "en": "Lloyd shares what are the ETAIN exposure maps and how they are being developed."
         }
     },
     {
         "id": 103,
         "title": {
-            "en": "Anke"
+            "en": "Introducing the ETAIN 5G Scientist app"
         },
         "url": "https://www.etainproject.eu/s/Anke-Video.mp4",
         "description": {
-            "en": "Anke"
+            "en": "Anke introduces the 5G Scientist app, how it works and what information is being recorded. She also shares how users can contribute to scientific research by just using the app."
         }
     }
 ]
