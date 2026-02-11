@@ -132,25 +132,15 @@
     {
         "id": 100,
         "title": {
-            "en": "Near-field and far-field"
+            "en": "Introducing the ETAIN 5G Scientist app"
         },
-        "url": "https://www.etainproject.eu/s/Nekane_FarFieldShortField.mp4",
+        "url": "https://www.etainproject.eu/s/Anke-Video.mp4",
         "description": {
-            "en": "Nekane explains how RF-EMF exposure differs in near-field and far-field conditions and why proximity to the source is a key factor in exposure levels."
+            "en": "Anke introduces the 5G Scientist app, how it works and what information is being recorded. She also shares how users can contribute to scientific research by just using the app."
         }
     },
     {
         "id": 101,
-        "title": {
-            "en": "Overall phone radiation exposure"
-        },
-        "url": "https://www.etainproject.eu/s/Martin_EMF_Dose.mp4",
-        "description": {
-            "en": "Martin explains how ETAIN has calculated the overall dose exposure of every user. At the same time, he also explains how users can learn more about their day to day phone behavior."
-        }
-    },
-    {
-        "id": 102,
         "title": {
             "en": "ETAIN exposure maps"
         },
@@ -160,13 +150,23 @@
         }
     },
     {
+        "id": 102,
+        "title": {
+            "en": "Overall phone radiation exposure"
+        },
+        "url": "https://www.etainproject.eu/s/Martin_EMF_Dose.mp4",
+        "description": {
+            "en": "Martin explains how ETAIN has calculated the overall dose exposure of every user. At the same time, he also explains how users can learn more about their day to day phone behavior."
+        }
+    },
+    {
         "id": 103,
         "title": {
-            "en": "Introducing the ETAIN 5G Scientist app"
+            "en": "Near-field and far-field"
         },
-        "url": "https://www.etainproject.eu/s/Anke-Video.mp4",
+        "url": "https://www.etainproject.eu/s/Nekane_FarFieldShortField.mp4",
         "description": {
-            "en": "Anke introduces the 5G Scientist app, how it works and what information is being recorded. She also shares how users can contribute to scientific research by just using the app."
+            "en": "Nekane explains how RF-EMF exposure differs in near-field and far-field conditions and why proximity to the source is a key factor in exposure levels."
         }
     }
 ]
